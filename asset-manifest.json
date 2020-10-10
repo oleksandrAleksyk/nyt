@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/nyt/static/css/main.d4ddc302.chunk.css",
-    "main.js": "/nyt/static/js/main.f46783a2.chunk.js",
-    "main.js.map": "/nyt/static/js/main.f46783a2.chunk.js.map",
+    "main.css": "/nyt/static/css/main.3b0a54cf.chunk.css",
+    "main.js": "/nyt/static/js/main.c6ef5147.chunk.js",
+    "main.js.map": "/nyt/static/js/main.c6ef5147.chunk.js.map",
     "runtime-main.js": "/nyt/static/js/runtime-main.5f9f9c51.js",
     "runtime-main.js.map": "/nyt/static/js/runtime-main.5f9f9c51.js.map",
     "static/js/2.8626492a.chunk.js": "/nyt/static/js/2.8626492a.chunk.js",
     "static/js/2.8626492a.chunk.js.map": "/nyt/static/js/2.8626492a.chunk.js.map",
     "index.html": "/nyt/index.html",
-    "precache-manifest.f427719ea13c7c66cdd286bf21fd075d.js": "/nyt/precache-manifest.f427719ea13c7c66cdd286bf21fd075d.js",
+    "precache-manifest.a54b4fdf604212230fa23679246ea338.js": "/nyt/precache-manifest.a54b4fdf604212230fa23679246ea338.js",
     "service-worker.js": "/nyt/service-worker.js",
-    "static/css/main.d4ddc302.chunk.css.map": "/nyt/static/css/main.d4ddc302.chunk.css.map",
+    "static/css/main.3b0a54cf.chunk.css.map": "/nyt/static/css/main.3b0a54cf.chunk.css.map",
     "static/js/2.8626492a.chunk.js.LICENSE.txt": "/nyt/static/js/2.8626492a.chunk.js.LICENSE.txt",
-    "static/media/NYTlogo.jpg": "/nyt/static/media/NYTlogo.e09902d3.jpg"
+    "static/media/NYTlogo.jpg": "/nyt/static/media/NYTlogo.e09902d3.jpg",
+    "static/media/inst.png": "/nyt/static/media/inst.d376f9a0.png",
+    "static/media/linkedin.png": "/nyt/static/media/linkedin.44f8b289.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5f9f9c51.js",
     "static/js/2.8626492a.chunk.js",
-    "static/css/main.d4ddc302.chunk.css",
-    "static/js/main.f46783a2.chunk.js"
+    "static/css/main.3b0a54cf.chunk.css",
+    "static/js/main.c6ef5147.chunk.js"
   ]
 }

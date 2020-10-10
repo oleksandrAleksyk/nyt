@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b5490c1e010e5fec13b1e6902e602553",
+    "revision": "ed9388a87b848288048ee7f16c36cc5c",
     "url": "/nyt/index.html"
   },
   {
-    "revision": "8493d928a71b85161881",
-    "url": "/nyt/static/css/main.d4ddc302.chunk.css"
+    "revision": "84fa3d8b53e76b6ff821",
+    "url": "/nyt/static/css/main.3b0a54cf.chunk.css"
   },
   {
     "revision": "1d411ee13cec0824c2a7",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nyt/static/js/2.8626492a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8493d928a71b85161881",
-    "url": "/nyt/static/js/main.f46783a2.chunk.js"
+    "revision": "84fa3d8b53e76b6ff821",
+    "url": "/nyt/static/js/main.c6ef5147.chunk.js"
   },
   {
     "revision": "f350b31e4f6a4d6adcc7",
@@ -26,5 +26,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e09902d3c01aebe973370a6d2d15afbd",
     "url": "/nyt/static/media/NYTlogo.e09902d3.jpg"
+  },
+  {
+    "revision": "d376f9a08ab018c4b76353c475757163",
+    "url": "/nyt/static/media/inst.d376f9a0.png"
+  },
+  {
+    "revision": "44f8b289c69632d304b73af7f90b0a49",
+    "url": "/nyt/static/media/linkedin.44f8b289.png"
   }
 ]);
